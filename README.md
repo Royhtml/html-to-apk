@@ -1,5 +1,9 @@
 # **HTML to APK Converter with Cordova**  
-`pip install html-to-apk`  
+`pip install html-to-apk`
+
+# **Running*** 
+`html-to-apk`
+
 
 **Aplikasi Konversi Proyek Web ke Aplikasi Android (APK) dengan Apache Cordova**  
 
